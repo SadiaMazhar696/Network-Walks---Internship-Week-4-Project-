@@ -26,7 +26,6 @@ Directory Listing Discovery:
 <img width="1338" height="726" alt="patient" src="https://github.com/user-attachments/assets/4552430a-6df1-416c-8611-5ad9bb87038a" />
 
 Patient Dashboard Access Gained:
-<img width="1476" height="1107" alt="file" src="https://github.com/user-attachments/assets/b1045699-c2a0-46c6-b194-c7ba21d8a4a8" />
 <img width="1364" height="725" alt="my lab reports" src="https://github.com/user-attachments/assets/02955ba8-6f4c-4014-873d-9ee01fe40fa7" />
 
 ##   Part 2: Hash Extraction & PDF Password Cracking (M2)
